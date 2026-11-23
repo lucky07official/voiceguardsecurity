@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+voiceguard_users.db
+*.sqlite
+*.sqlite3
+.env
